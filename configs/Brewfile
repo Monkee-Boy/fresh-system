@@ -1,0 +1,22 @@
+# Formulae
+brew 'git'
+brew wget
+brew yarn
+
+# Casks
+cask 'alfred'
+# cask 'atom'
+cask 'backblaze'
+cask 'firefox'
+cask 'google-chrome'
+cask 'hyper'
+cask 'imageoptim'
+cask 'notion'
+cask 'sequel-pro'
+cask 'slack'
+cask 'spotify'
+# cask 'sublime'
+cask 'transmit'
+cask 'vagrant'
+cask 'virtualbox'
+cask 'visual-studio-code'
