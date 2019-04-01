@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'capistrano', '3.5.0'
+gem 'capistrano-gitslave', '1.0.0'
+gem 'mboy-deploy', :source => 'https://8TzpTU7sz5GrHAEbnX9H@gem.fury.io/fleeting/'
+gem 'sass', '3.6.0'

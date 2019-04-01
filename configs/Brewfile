@@ -1,5 +1,6 @@
 # Formulae
-brew 'git'
+brew git
+brew ruby@2.3
 brew wget
 brew yarn
 brew zsh
