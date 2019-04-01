@@ -2,6 +2,8 @@
 brew 'git'
 brew wget
 brew yarn
+brew zsh
+brew zsh-completions
 
 # Casks
 cask 'alfred'
