@@ -43,9 +43,9 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
   source ./installers/npm-packages.sh
   printf '\n'
 
-  printf '\033[1;36m❯ Ruby Gems\n\033[0m'
+  #printf '\033[1;36m❯ Ruby Gems\n\033[0m'
   #source ./installers/ruby-gems.sh
-  printf '\n'
+  #printf '\n'
 
   printf '\033[1;36m❯ Zsh Config\n\033[0m'
   source ./installers/zsh.sh

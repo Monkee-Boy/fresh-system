@@ -1,10 +1,10 @@
 # Formulae
-brew git
-brew ruby@2.3
-brew wget
-brew yarn
-brew zsh
-brew zsh-completions
+brew 'git'
+brew 'ruby'
+brew 'wget'
+brew 'yarn'
+brew 'zsh'
+brew 'zsh-completions'
 
 # Casks
 cask 'alfred'
