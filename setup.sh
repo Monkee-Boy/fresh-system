@@ -42,6 +42,10 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
   printf '\033[1;36m❯ npm Packages\n\033[0m'
   source ./installers/npm-packages.sh
   printf '\n'
+
+  printf '\033[1;36m❯ Zsh Config\n\033[0m'
+  source ./installers/zsh.sh
+  printf '\n'
 else
   printf '\033[1;36m❯ Goodbye.\n\033[0m'
 fi
