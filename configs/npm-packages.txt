@@ -1,0 +1,6 @@
+bower
+date-now-cli
+generator-mboy-deploy
+generator-mboy-gulp
+gulp-cli
+pure-prompt
